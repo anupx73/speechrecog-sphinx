@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VRecog_CE", "VRecog_CE.vcproj", "{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mantle08 (ARMV4I) = Debug|Mantle08 (ARMV4I)
+		Release|Mantle08 (ARMV4I) = Release|Mantle08 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Debug|Mantle08 (ARMV4I).ActiveCfg = Debug|Mantle08 (ARMV4I)
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Debug|Mantle08 (ARMV4I).Build.0 = Debug|Mantle08 (ARMV4I)
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Debug|Mantle08 (ARMV4I).Deploy.0 = Debug|Mantle08 (ARMV4I)
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Release|Mantle08 (ARMV4I).ActiveCfg = Release|Mantle08 (ARMV4I)
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Release|Mantle08 (ARMV4I).Build.0 = Release|Mantle08 (ARMV4I)
+		{CA9B8A45-D89A-463B-8B44-B0DBA2F90CF2}.Release|Mantle08 (ARMV4I).Deploy.0 = Release|Mantle08 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
